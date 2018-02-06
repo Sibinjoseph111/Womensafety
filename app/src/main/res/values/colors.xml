@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#EF5350</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="ET_normal">#6e6e6e</color>
-    <color name="ET_focused">#a19e9e</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FE0002</color>
+    <color name="colorAccent">#000000</color>
+    <color name="ET_normal">#806e6e6e</color>
+    <color name="ET_focused">#80a19e9e</color>
 </resources>
