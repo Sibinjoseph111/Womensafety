@@ -8,6 +8,7 @@
     tools:context="penserlabs.womensafety.LoginActivity"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@drawable/login_bg"
     >
 
     <android.support.design.widget.TextInputLayout
