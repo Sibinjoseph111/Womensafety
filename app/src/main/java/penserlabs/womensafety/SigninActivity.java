@@ -81,7 +81,7 @@ public class SigninActivity extends AppCompatActivity {
                         // [END_EXCLUDE]
                     }
                 });
-        // [END sign_in_with_email]
+        // [END sign_in_with_email]...
     }
     private boolean validateForm() {
         boolean valid = true;
