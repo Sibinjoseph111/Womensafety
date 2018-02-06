@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WomenSafety</string>
+    <string name="username_ET_hint">Email id</string>
+    <string name="password_ET_hint">Password</string>
+    <string name="Register_BT">Register</string>
+    <string name="Signin_TV">Already have an account?Signin</string>
+    <string name="Signup_TV">Dont have an account?Signup</string>
+    <string name="Sigin_BT_text">Signin</string>
 </resources>

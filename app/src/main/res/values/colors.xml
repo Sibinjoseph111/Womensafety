@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="ET_normal">#6e6e6e</color>
+    <color name="ET_focused">#a19e9e</color>
 </resources>
