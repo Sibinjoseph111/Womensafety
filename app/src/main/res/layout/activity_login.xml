@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/login_bg"
-    android:paddingTop="140dp"
+    android:paddingTop="160dp"
     >
 
     <android.support.design.widget.TextInputLayout
