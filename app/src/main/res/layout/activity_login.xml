@@ -9,6 +9,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/login_bg"
+    android:paddingTop="140dp"
     >
 
     <android.support.design.widget.TextInputLayout
@@ -72,12 +73,13 @@
         android:clickable="true"
         android:onClick="signin_text"
         android:focusable="true" />
+
     <com.shobhitpuri.custombuttons.GoogleSignInButton
         android:id="@+id/Google_BT"
-        android:translationY="100dp"
         android:layout_width="match_parent"
         android:layout_height="70dp"
+        android:onClick="signIn"
         android:text="@string/google_sign_up"
-        app:isDarkTheme="true"
-        android:onClick="signIn"/>
+        android:translationY="60dp"
+        app:isDarkTheme="true" />
 </LinearLayout>
